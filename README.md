@@ -1,6 +1,8 @@
 ![Terraform Plan](https://github.com/manjusrikalapala/terraform-plan-project12/actions/workflows/terraform-plan.yml/badge.svg)
 # Project 12 - Infrastructure CI Trigger (Terraform Plan)
 
+(https://github.com/manjusrikalapala/terraform-plan-project12/actions/workflows/terraform-plan.yml/badge.svg)
+
 ## Overview
 
 This project demonstrates Continuous Integration (CI) for Infrastructure as Code using GitHub Actions. A Terraform plan is automatically generated whenever changes are pushed to the repository.
