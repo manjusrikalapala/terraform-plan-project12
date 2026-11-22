@@ -26,6 +26,6 @@ This project demonstrates Continuous Integration (CI) for Infrastructure as Code
 
 Successfully implemented an automated Terraform planning pipeline with artifact storage.
 
-##Author 
+## Author 
 
 Manjusri Kalapala
