@@ -1,3 +1,4 @@
+![Terraform Plan](https://github.com/manjusrikalapala/terraform-plan-project12/actions/workflows/terraform-plan.yml/badge.svg)
 # Project 12 - Infrastructure CI Trigger (Terraform Plan)
 
 ## Overview
